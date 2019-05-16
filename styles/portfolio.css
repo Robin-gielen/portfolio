@@ -1,4 +1,4 @@
-@charset "utf-8";
+﻿@charset "utf-8";
 /* CSS Document */
 
 /******************************
@@ -697,13 +697,12 @@ section
 {
 	width: 100%;
 }
-.portfolio_item
-{
-	width: calc((100% - 279px) / 3);
-	float: left;
-	margin-bottom: 89px;
-	margin-right: 93px;
-	background: #100f3a;
+.portfolio_item {
+    width: calc((100% - 279px) / 3);
+    float: left;
+    margin-bottom: 89px;
+    margin-right: 93px;
+    background: #FFFFFF;
 }
 .portfolio_item::after
 {
